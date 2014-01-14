@@ -6,7 +6,7 @@ public class Misto {
 
 	
 	public void showName(){
-		System.out.println(firstName + ' ' + lastName + " made " + blocks + " blocks at the " + game + " game.");
+		System.out.println(firstName + ' ' + lastName + " made " + blocks + " great blocks at the " + game + " game.");
 		
 	}
 	
